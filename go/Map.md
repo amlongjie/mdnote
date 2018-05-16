@@ -72,5 +72,3 @@ delete(m1, "name")
 1. slice,map,function不能作为Map的Key
 2. 包含上述类型的Struct类型,也不能作为Key
 
-
-
