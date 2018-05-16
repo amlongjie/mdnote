@@ -77,3 +77,9 @@ for len(sb) > 0 {
 ```
 
 但是需要考虑.rune 是 int32的别名.所以在转成rune数组的时候,实际上是重新编码的过程.
+
+
+
+## String其他操作
+
+关于string的其他操作.在strings包中.
